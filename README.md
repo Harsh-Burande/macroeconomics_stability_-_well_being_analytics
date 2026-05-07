@@ -1,4 +1,4 @@
-Macroeconomic Stability & Well-Being Analytics
+# Macroeconomic Stability & Well-Being Analytics
 
 🔍 Project Overview
 
